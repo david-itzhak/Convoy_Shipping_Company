@@ -1,0 +1,5 @@
+matches_number = int(input())
+# name_list = list(map(lambda y: y[0], filter(lambda x: x[1] == 'win', [input().split() for _ in range(matches_number)])))
+name_list = list(map(lambda y: y.split()[0], filter(lambda x: x.endswith('win'), [input() for _ in range(matches_number)])))
+print(name_list)
+print(len(name_list))

@@ -1,0 +1,18 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: ElementTree stores additional information about the XML document
+- text: getroot() function returns an ElementTree object that contains the given Element.
+- text: ElementTree and Element classes can be used interchangeably
+- text: Element stores information only about one element of the XML document.
+files:
+- name: main.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9483#comment
+status: Solved
+record: -1
+local_check: false

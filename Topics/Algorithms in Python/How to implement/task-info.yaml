@@ -1,0 +1,15 @@
+type: code
+custom_name: How to implement?
+files:
+- name: main.py
+  visible: true
+  text: |-
+    def prod(first, second):
+        ...
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/15377#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Fri, 26 Aug 2022 09:51:10 UTC
+record: -1

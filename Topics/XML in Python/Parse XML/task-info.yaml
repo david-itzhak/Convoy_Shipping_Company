@@ -1,0 +1,18 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: fromstring() parses XML from a string
+- text: parse() parses XML from a file
+- text: fromstring() returns an instance of the Element class
+- text: parse() returns an instance of the ElementTree class
+files:
+- name: main.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9484#comment
+status: Solved
+record: -1
+local_check: false
