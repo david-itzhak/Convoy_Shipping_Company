@@ -10,20 +10,6 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="\Convoy Shipping Company\task\convoy\data_big_xlsx[CHECKED].csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\Convoy Shipping Company\task\convoy\data_one_xlsx[CHECKED].csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="\Convoy Shipping Company\task\test\data_big_chk[CHECKED].csv">
           <value>
             <Attribute>

@@ -5,5 +5,8 @@ files:
   text: 'class Painting:'
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/6684#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Fri, 26 Aug 2022 14:54:25 UTC
 record: -1

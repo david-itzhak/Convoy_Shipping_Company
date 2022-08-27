@@ -471,15 +471,6 @@ files:
 - name: convoy/commone_utils.py
   visible: true
   learner_created: true
-- name: data_one_xlsx.s3db
-  visible: true
-  learner_created: true
-- name: data_one_xlsx.csv
-  visible: true
-  learner_created: true
-- name: data_one_xlsx[CHECKED].csv
-  visible: true
-  learner_created: true
 feedback_link: https://hyperskill.org/learn/step/12013#comment
 status: Solved
 feedback:
